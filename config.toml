@@ -5,7 +5,7 @@ title = "Shibani consulting"
 theme = "hugo-agency-theme"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-114763406-1"
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source) or
@@ -76,8 +76,8 @@ googleAnalytics = ""
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "Shibani consulting"
-    subtitle = " "
-    buttonText = "Explor"
+    subtitle = ""
+    buttonText = "Find out more ..."
 
 
   # Services section
@@ -91,7 +91,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-shopping-cart"
       title = "E-Commerce"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      description = "Implementing new e-commerce platform? We can help you with the technical and organizational challanges."
       url = "#"
 
     [[params.services.row.list]]
