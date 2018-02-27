@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://www.shibani.io/"
+baseurl = "https://sshibani.github.io"
 languageCode = "en-us"
 title = "Shibani consulting"
 theme = "hugo-agency-theme"
